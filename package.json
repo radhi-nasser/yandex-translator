@@ -1,6 +1,6 @@
 {
     "name": "yandex-translator",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A promise based implementation of Yandex Translate API for Node.js.",
     "main": "index.js",
     "repository": {
