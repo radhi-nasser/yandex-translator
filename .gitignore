@@ -1,0 +1,60 @@
+# dotenv environment variables file
+.env
+
+# System Files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.idea
+.project
+.classpath
+.c9/
+*.launch
+.settings/
+*.sublime-workspace
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# ionic
+.sourcemaps/
+platforms/
+plugins/
+www/
+coverage/
+temp/
+hooks/
+
+# Dependency directories
+node_modules/
+bower_components
+
+# compiled output
+dist
+tmp
+build/Release
+.sass-cache
+
+# e2e
+e2e/*.js
+e2e/*.map
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Typescript v1 declaration files
+typings/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Output of 'npm pack'
+*.tgz
