@@ -105,7 +105,7 @@ The *parameters* parameter is an object which can contain any of the following a
 
 - [ ] Add CLI support
 - [ ] Add browser integration
-- [ ] create tests
+- [ ] Create tests
 
 
 ## License
